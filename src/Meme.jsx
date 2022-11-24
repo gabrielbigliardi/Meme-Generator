@@ -27,6 +27,7 @@ export default function Meme(){
                     type="text" />
                 <button 
                     className='meme--button'
+                    onClick={getMemeImage}
                 >
                     Get a new meme image  🖼
                 </button>
