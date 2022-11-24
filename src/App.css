@@ -28,7 +28,7 @@
 
 
 .meme {
-  background-color: burlywood;
+  background-color: rgb(240, 240, 239);
   padding: 40px 60px;
 }
 
@@ -57,3 +57,8 @@
   cursor: pointer;
 }
 
+.meme--image {
+  width: 200px;
+  height: 200px;
+  margin: 20px 0;
+}
