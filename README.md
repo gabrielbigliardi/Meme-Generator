@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+# About
+
+Talvez meu primeiro projeto em React.
+
+Trata-se de um gerador de memes.
+
+Um objeto localizado no arquivo memesData.js, contem um array com todas as possiveis imagens que podem aparecer.
+
+Durante o uso da aplicação, é possível pedir por uma nova imagem, que será selecionada randomicamente dentre os itens desse array, escolhida a imagem, é possivel escrever em cima da mesma, possibilitando torna-la um meme de acordo com o quão engraçada for sua frase! xD
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
